@@ -16,8 +16,8 @@ include("marco-right.php");
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
-                Posteado por:  Stalin Francis<br>
-                Fecha: 2021-08-17 <br>
+                Posteado por:  Alexander Coral <br>
+                Fecha: 2022-10-29 <br>
           </div>
         </div>
     </div>
@@ -25,7 +25,7 @@ include("marco-right.php");
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
                    <p class="eys-parrafo">Hola, yo soy Alexander Coral, tengo 22 años y soy estudiante de la carrera de Tecnologias de la información de la Universidad Tecnica Luis Vargas Torres, actualmente curso el 7mo semestre. Mis aspiraciones son terminar mi carrera universitaria y acceder a la Marina del Ecuador como oficial especialista. </p>
-                   <p class="eys-parrafo">Nací en Esmeraldas el 17 de agosto del año 2000, curse mis estudios primarios en la escuela Nuevo Ecuador y secundarios en el colegio Sagrado Corazón. </p>
+                   <p class="eys-parrafo">Nací en Esmeraldas el 17 de agosto del año 2000, hijo unico de padre y madre. Al día de hoy cuento con el apoyo de mis padres, pero tambien trabajo en un negocio familiar soy encargado de llevar un control contable y observar las necesidades ddl mismo. </p>
 <p class="eys-parrafo"> En cuanto a mis estudios universitarios nunca pense seguir una carrera basada en tecnologia, ha sido un completo reto para mi y he aprendido a desarrollar mis habilidades resolutivas en cuanto a una proyección hacia la imnovación. La materia que más logro captar mi atención es fundamentos de programación, esto porque fue una introducción a la programación fue aquí donde aprendí el orden lógico de las cosas, la importancia de tener capacidad abstracta para resolver problemas y lo indispensable que es la programación en el mundo moderno.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
@@ -34,25 +34,24 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fisco-Misional Sagado Corazon donde me gradue en el año 1989, de la especialidad de Físico-Matemático, apenas me gradue viaje a Guayaquil para seguir mis estudios universitarios en la Escuela Superior Politécnica del Litoral donde seguí la carrera de Ingeniería en Computación, gracias a la demanda que exitía en este tiempo de este tipo de profesionales comencé a trabajar mientra estaba estudiando, prestando mis servicios profesionales en empresas como Poligráfica, El telegráfo, Intecorsorcio; mientras trabajaba en esta última logré obtener mi título de Ingeniero de Computación.</p>
-                   <p class="eys-parrafo">Ya con el título en la mano decidi regrasar a mi tierra Esmeraldas, con la finalidad de aplicar los conocimiento y habilidades obtenida por lo que forme la empresa EDUCAYSOFT, pero como los ingreso no fueron suficiente entre a trabajar al colegio Eloy Alfaro y posteiormente a la Universidad Técnica Luis Vargas Torres donde actualmente laboró.</p>
-<p class="eys-parrafo"> Por las exigencias de la universidad, ingresar a la maestria de docencia y desarrollo del curriculo, de la cual de grauduo obteniendo el título de Magister, pero despues realice otra maestría en la POLITECNICA, de Ciencias de la Computación.</p>
+		   <p class="eys-parrafo">Mis estudios primarios los curse en la unidad educativa Nuevo Ecuador donde termine la primaria en 2015. Inmediatamente ingrese al colegio Sagrado Corazón para continuar con mis estudios,finalmente me gradue en el año 2018.</p>
+                   <p class="eys-parrafo">Ya graduado de bachiller decidí no seguir con mis estudios universitarios y postular a la Marina como oficial de armas. Viaje a Guayaquil para cumplir con mi cometido, lastimosamente no fuí aceptado es ahí donde regrese a Esmeraldas para prepararme más por consiguiente ingrese a la universidad tecnica Luis Vargas Torres, al ya estar a nada de graduarme de la universidad planeo entrar a la marina ya como oficial especialista esa es mi vocación. </p>
+<p class="eys-parrafo">Curse 2 semestres en la carrera de Derecho en la UTPL, no pude continuar con mis estudios en dicha carrera porque debia centrarme en una sola que es Tecnologias de la Información, me gustaria retomar mis estudios después de terminar la carrera ya mencionada.</p>
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
     
 
 
-                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje Basic, utilizando el computador de la espol, luego programe c++, donde realiza algunos programa que leina el entregas del puerto serial y enviaban señales a un motor. Profesionalmente comenza programando en Informix un lenguaje de programación para el sistema Unix, utilizando uan versio de foxpro para unix, luego cuando aparecio la interface gráfica programe en foxpro y seguidamente visual foro.</p> 
-                   <p  class="eys-parrafo">Hoy en día creso sisemas web combinando HTML, CSS, JavaScrip y PHP; tambien aplicaciones para dispositivo androi para lo cual utilizo el framework android Studio, el cual utiliza el lenguaje de JAVA.</p>
+		   <p  class="eys-parrafo">Considero que aun no tengo un perfil claramente establecido, pero al tener de declinarme por un lado de la informatica seria el desarrollo de aplicaciones moviles, aun no manejo del todo este sistema pero con la practica todo se puede.</p> 
+                   <p  class="eys-parrafo">Tambien quisiera aprender un poco más sobre la seguridad informatica, debido a que es muy probable que mi vocación me lo exija y deba de utilizarlo.</p>
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Soy amante a la lectura, así que en los ratos libres me encanta actualizar mis conocimientos leyendo manuales de los leguajes de progración que namejo, y tambien muchos noticias de las ultimas tendencias en tecnología.</p>
+                   <p   class="eys-parrafo">Me gustan mucho los deportes de todo tipo, especialmente la natación y el futbol. En mi tiempo libre acostumbro a realizar ejericicios para el bienestar tanto físico como saludable.</p>
        
-
                    
 
                <hr>
