@@ -12,7 +12,7 @@ include("marco-right.php");
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
-        	<h1>¿Quién es Stalin Francis?</h1>
+        	<h1>¿Quién es Alexander coral??</h1>
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
@@ -24,9 +24,9 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy Stalin Francis, ingeniero esmeraldeño que labora desde hace 10 años en la Universidad Tecnica Luis Vargas Torres, e impartido diferentes cátedras en la carrera de Tecnología de la Información entre las cuales esta Ingeniería de Software, Programación Web, Proyectos informáticos entre otras; pero la cátedra en la que mejor me desempeño es la de Fundamentos de programación que se dicta en el primer ciclo de la carrera de Tecnología de la Información. </p>
-                   <p class="eys-parrafo">Desde mís estudios secundarios me he apacionado por las ciencias y la tecnología, quieza sería  por esta capacidad que tiene estas dos áres del conocimiento de solucionar muchos probemas de la sociedad; es por eso que desde que termine mis estudios de ingeniería en la ESPOL, me he dedicado a la programación de computadoras. </p>
-<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
+                   <p class="eys-parrafo">Hola, yo soy Alexander Coral, tengo 22 años y soy estudiante de la carrera de Tecnologias de la información de la Universidad Tecnica Luis Vargas Torres, actualmente curso el 7mo semestre. Mis aspiraciones son terminar mi carrera universitaria y acceder a la Marina del Ecuador como oficial especialista. </p>
+                   <p class="eys-parrafo">Nací en Esmeraldas el 17 de agosto del año 2000, curse mis estudios primarios en la escuela Nuevo Ecuador y secundarios en el colegio Sagrado Corazón. </p>
+<p class="eys-parrafo"> En cuanto a mis estudios universitarios nunca pense seguir una carrera basada en tecnologia, ha sido un completo reto para mi y he aprendido a desarrollar mis habilidades resolutivas en cuanto a una proyección hacia la imnovación. La materia que más logro captar mi atención es fundamentos de programación, esto porque fue una introducción a la programación fue aquí donde aprendí el orden lógico de las cosas, la importancia de tener capacidad abstracta para resolver problemas y lo indispensable que es la programación en el mundo moderno.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
