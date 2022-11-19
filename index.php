@@ -79,13 +79,13 @@ include("marco-left.php")
  
 <script >  
 
- document.title="Stalin"; 
+ document.title="Coral Alexander"; 
 document.getElementById("foto").src="./images/stalin.png";
 document.getElementById("elnombre").innerHTML="Alexander Coral";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-kevin.php'>Kevin Aguilar</a></p><p><a href='eys-damaris.php'>Damaris Viallalva</a></p> ";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-kevin.php'>Jair Escobar</a></p><p><a href='eys-damaris.php'>Fabricio Rivera</a></p><p><a href='eys-damaris.php'>Gerardo Valdez</a></p><p><a href='eys-damaris.php'>Christopher Solorzano</a></p><p><a href='eys-damaris.php'>Junior Gamez</a></p> ";
  </script>
  
 <?php

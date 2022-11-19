@@ -8,7 +8,7 @@
 
 <html lang="es">
 <head>
- <title> Educaysoft </title>
+ <title> Coral Alexander </title>
 <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -111,11 +111,11 @@ width:30%;
 <div id="wrapper"  style="border:5px solid red; position:relative;">
 <div id="main" >
       <div class="navbar">
-        <a href="index.php">EDUCAYSOFT</a>
-        <a href="eys-capacitacion.php">Capacitación</a>
-        <a href="eys-asesoria-tecnica.php">Asesoria Tecnica</a>
-        <a href="eys-investigacion.php">Investigación</a>
-        <a href="eys-desarrollo-web.php">Desarrollo Web</a>
+        <a href="index.php">Alexander</a>
+        <a href="eys-capacitacion.php">Inicio</a>
+        <a href="eys-asesoria-tecnica.php">Estudios</a>
+        <a href="eys-investigacion.php">Conocimientos informáticos</a>
+        <a href="eys-desarrollo-web.php">Hooby</a>
     	<a href="donacion.php">&#128151; Donaciones</a>
         </div>
     
