@@ -11,6 +11,10 @@
  <title> Coral Alexander </title>
 <meta charset="utf-8"/>
     <link rel="icon" href="images/favicon.ico"  type="image/x-icon"/>
+<meta name="description" content="Biografía de Alexander Coral " /> 
+<!--<meta property="og:image" content="http://highkickesmeraldas.com/CORALalexander/images/stalin.png" />
+<meta property="og:image:width"content="100"/>
+<meta property="og:image:heigth"content="100"/>-->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" type="text/css" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/assets/css/eys.css" />   
@@ -112,10 +116,10 @@ width:30%;
 <div id="wrapper"  style="border:5px solid red; position:relative;">
 <div id="main" >
       <div class="navbar">
-        <a href="eys-capacitacion.php">Inicio</a>
-        <a href="eys-asesoria-tecnica.php">Estudios</a>
-        <a href="eys-investigacion.php">Conocimientos informáticos</a>
-        <a href="eys-desarrollo-web.php">Hooby</a>
+        <a href="https://highkickesmeraldas.com/CORALalexander/#">Inicio</a>
+        <a href="https://highkickesmeraldas.com/CORALalexander/#blog-seccion2">Estudios</a>
+        <a href="https://highkickesmeraldas.com/CORALalexander/#blog-seccion3">Conocimientos informáticos</a>
+        <a href="https://highkickesmeraldas.com/CORALalexander/#blog-seccion4">Hooby</a>
     	<a href="donacion.php">&#128151; Donaciones</a>
         </div>
     
