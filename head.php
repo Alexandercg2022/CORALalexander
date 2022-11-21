@@ -8,7 +8,7 @@
 
 <html lang="es">
 <head>
- <title> Coral Alexander </title>
+ <title> Alexander </title>
 <meta charset="utf-8"/>
     <link rel="icon" href="images/favicon.ico"  type="image/x-icon"/>
 <meta name="description" content="Biografía de Alexander Coral " /> 
